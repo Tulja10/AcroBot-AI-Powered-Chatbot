@@ -13,7 +13,7 @@ Feedback system
 
 ## System Architecture of project
 
-![Alt text for image]([https://raw.githubusercontent.com/username/repo/main/images/my-image.png](https://github.com/Tulja10/AcroBot-AI-Powered-Chatbot/blob/main/system%20architecture.png))
+![Alt text for image](https://raw.githubusercontent.com/Tulja10/AcroBot-AI-Powered-Chatbot/main/system%20architecture.png)
 
 ## Setup Instructions
 1. Clone the Repository <br>
