@@ -1,4 +1,4 @@
-## Student FAQ Chatbot
+## AcroBot: An AI Powered Student Assistance Chatbot
 
 A smart campus chatbot that answers queries using vector search (ChromaDB), MySQL (for user data), and LLM fallback (Mistral 7B).
 Supports personalized answers, admin FAQ upload, and image-based responses (timetables).
@@ -10,6 +10,10 @@ LLM fallback for unknown queries <br>
 Image responses (timetables) <br>
 Admin panel to upload/update FAQs <br>
 Feedback system 
+
+## System Architecture of project
+
+![Alt text for image]([https://raw.githubusercontent.com/username/repo/main/images/my-image.png](https://github.com/Tulja10/AcroBot-AI-Powered-Chatbot/blob/main/system%20architecture.png))
 
 ## Setup Instructions
 1. Clone the Repository <br>
